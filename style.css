@@ -1,0 +1,126 @@
+body {
+      margin: 0;
+      font-family: 'Playfair Display', serif;
+      background-color: #000;
+      color: rgb(118, 28, 160);
+    }
+
+    header, section, footer {
+      max-width: 900px;
+      margin: auto;
+      padding: 60px 20px;
+      display: flex;
+    }
+
+    header img, section img {
+      width: 300px;
+      height: auto;
+      border-radius: 50px;
+      margin-top: 50px 20px;
+      margin-left: 300px;
+    }
+    .sorrindo{
+        margin-left: 200px;
+        margin-top: 90px;
+        
+    }
+    #hardware{
+        margin-top: -399px;
+        margin-right: 60px;
+        padding: -70px;
+        border-radius: 50px;
+    }
+    
+    #sobre-mim{
+       margin-left: -150px;margin-top: 140px;
+
+    }
+    .paragrafo{
+        margin-top: 190px;
+        margin-left: -250px;
+        font-size: 25px;
+    }
+
+    h1, h2 {
+      font-size: 40px;
+      
+
+    }
+    .titulo1{
+        margin-left: -150px;
+    }
+
+    .intro, .sobre, .habilidades, .projetos, .contato {
+      text-align: center;
+    }
+
+    .texto {
+      display: flex;
+      margin-top: -40px;
+    }
+    .foto{
+        width: -5px;
+        margin-right: -60px;
+
+
+        
+    }
+    #hab{
+        margin-top: -10px;
+        margin-left: 250px;
+
+    }
+    .habilidades-grid img {
+      width: 600px;
+      height: 400px;
+      background-color: rgb(93, 43, 139);
+      padding: 20px;
+      border-radius: 20px;
+      margin: -360px;
+      margin-top: 100px;
+      margin-bottom: 40px;
+      display: block;
+    }
+
+    .Pjt{
+      
+      margin-top: 66px;
+      margin-left: -170px;
+    }
+
+    .link {
+      width: 300px;
+      border-radius: 40px;
+      margin-top: 150px;
+      margin-left: 15px;
+      margin-bottom: 50px;
+      
+    }
+
+   .titulo {
+ 
+  font-size: 30px;
+  margin-top: -60px;
+  margin-left: -180px;
+  
+}
+
+.contato {
+  display: flex;           /* coloca os itens lado a lado */
+  justify-content: center; /* centraliza no meio da tela */
+font-size: 20px;
+gap: 20px;  /* separa os itens */
+  margin-top: 30px;
+  margin-left: 40px;
+  background-color: rgb(93, 43, 139);
+  border-radius: 35px;
+  color: black;
+}
+
+.item a {
+  color: rgb(238, 238, 238); /* cor dos links */
+  text-decoration: none;    /* tira o sublinhado */
+}
+
+
+   
